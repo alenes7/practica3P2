@@ -52,7 +52,10 @@ p.borde-dos {
     padding: 40px;
     background-image: none;
     background-color: darkslategrey;
-    font-family: "sofia";
+    font-family: "Rock Salt", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
     font-size: 35px;
 }
 
